@@ -5,7 +5,7 @@ This repo contains dashboards and reports that I have made .
 ### 1.AtliQ Hardware Business Analytics
 #### Problem Statement
 AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his consumers through e commerce platform and brick & mortar store.
-This is a complete dashboard of the complete business of AtliQ Mart.
+This is a complete dashboard of the complete business of AtliQ Hardware.
 
 #### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
