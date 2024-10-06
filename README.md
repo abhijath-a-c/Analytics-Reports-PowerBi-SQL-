@@ -7,7 +7,7 @@ This repo contains dashboards and reports that I have made .
 AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his consumers through e commerce platform and brick & mortar store.
 This is a complete dashboard of the complete business of AtliQ Mart.
 
-#### https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+#### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 2.AtliQ Mart Supply Chain Analytics
 #### Problem Statement
@@ -17,7 +17,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
-#### https://app.Link to [Interactive Dashboard](powerbi.com/view?r=eyJrIjoiZjVhZTRmZDQtYWRmYy00NzJhLWJiNGYtMDk0MTQxNDEzOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+#### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjVhZTRmZDQtYWRmYy00NzJhLWJiNGYtMDk0MTQxNDEzOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 3.AtliQ Hotels Revenue Analytics
 
