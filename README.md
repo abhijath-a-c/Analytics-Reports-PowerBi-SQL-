@@ -2,23 +2,28 @@
 
 This repo contains dashboards and reports that I have made .
 
-#### 1.AtliQ Hardware Business Analytics
+### 1.AtliQ Hardware Business Analytics
+#### Problem Statement
+AtliQ hardware is a company which delivers computer hardware & peripheral Manufacturers to his consumers through e commerce platform and brick & mortar store.
+This is a complete dashboard of the complete business of AtliQ Mart.
 
+#### https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+### 2.AtliQ Mart Supply Chain Analytics
+#### Problem Statement
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
-https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
-#### 2.AtliQ Mart Supply Chain Analytics
+The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
-https://app.powerbi.com/view?r=eyJrIjoiZjVhZTRmZDQtYWRmYy00NzJhLWJiNGYtMDk0MTQxNDEzOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+#### https://app.Link to [Interactive Dashboard](powerbi.com/view?r=eyJrIjoiZjVhZTRmZDQtYWRmYy00NzJhLWJiNGYtMDk0MTQxNDEzOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-#### 3.AtliQ Hotels Revenue Analytics
+### 3.AtliQ Hotels Revenue Analytics
 
-##### Problem Statement
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+#### Problem Statement
+Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. So, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. 
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
-
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQyNmEwYWMtODMwYi00Y2EzLWExZDUtNjg0MTdjNjczOTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+#### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQyNmEwYWMtODMwYi00Y2EzLWExZDUtNjg0MTdjNjczOTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 
