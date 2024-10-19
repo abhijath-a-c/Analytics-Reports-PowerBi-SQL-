@@ -10,9 +10,8 @@ This is a complete dashboard of the complete business of AtliQ Hardware.
 #### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY5Y2M0NmItNDBjZi00OGVhLWEyZjAtMTg5ZWZlNWU5YWQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 2.AtliQ Mart Supply Chain Analytics
-#### Problem Statement
 
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
+#### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
 
 𝗖𝗼𝗻𝘁𝗲𝘅𝘁:
 AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, is currently operational in three cities Surat, Ahmedabad and Vadodara.
