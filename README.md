@@ -51,6 +51,7 @@ The goal was to help AtliQ Mart's management track and improve 𝐎𝐧-𝐭𝐢
 ### 3.AtliQ Hotels Revenue Analytics
 
 #### Problem Statement
+
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. So, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. 
 
 #### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQyNmEwYWMtODMwYi00Y2EzLWExZDUtNjg0MTdjNjczOTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
