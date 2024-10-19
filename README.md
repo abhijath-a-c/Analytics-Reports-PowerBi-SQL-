@@ -11,12 +11,41 @@ This is a complete dashboard of the complete business of AtliQ Hardware.
 
 ### 2.AtliQ Mart Supply Chain Analytics
 #### Problem Statement
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
-AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. 
-It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
 
-The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
+𝗖𝗼𝗻𝘁𝗲𝘅𝘁:
+AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, is currently operational in three cities Surat, Ahmedabad and Vadodara.
+They faced challenges when key customers did not renew their annual contracts due to poor delivery service levels. The issue was suspected to stem from late or incomplete deliveries, leading to dissatisfaction and service issues.
+
+𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲:
+The goal was to help AtliQ Mart's management track and improve 𝐎𝐧-𝐭𝐢𝐦𝐞 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 (𝐎𝐓) %, 𝐈𝐧-𝐟𝐮𝐥𝐥 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 (𝐈𝐅) %, 𝐚𝐧𝐝 𝐎𝐧-𝐓𝐢𝐦𝐞 𝐢𝐧 𝐅𝐮𝐥𝐥 (𝐎𝐓𝐈𝐅) % on a daily basis to ensure better service and swift responses to delivery problems, helping retain key customers.
+
+𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
+𝗢𝘃𝗲𝗿𝗮𝗹𝗹 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
+ ➜𝗢𝗻-𝗧𝗶𝗺𝗲 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 (𝗢𝗧 %):
+ Coolblue, Lotus Mart, and Acclaimed Stores had significant service gaps with on-time deliveries, 
+ 𝐦𝐢𝐬𝐬𝐢𝐧𝐠 𝐭𝐚𝐫𝐠𝐞𝐭𝐬 𝐛𝐲 𝟒𝟕.𝟑𝟓%, 𝟓𝟏.𝟏𝟕%, 𝐚𝐧𝐝 𝟒𝟔.𝟗𝟐% respectively.
+
+➜ 𝗜𝗻-𝗙𝘂𝗹𝗹 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 (𝗜𝗙 %):
+ Multiple customers, including Coolblue, Elite Mart, and Lotus Mart, failed to receive full quantities, with 
+ 𝐭𝐚𝐫𝐠𝐞𝐭 𝐠𝐚𝐩𝐬 𝐨𝐟 𝐚𝐩𝐩𝐫𝐨𝐱𝐢𝐦𝐚𝐭𝐞𝐥𝐲 𝟒𝟓%.
+
+➜ 𝗢𝗻-𝗧𝗶𝗺𝗲 & 𝗜𝗻-𝗙𝘂𝗹𝗹 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 (𝗢𝗧𝗜𝗙 %):
+ Key customers like Elite Mart and Vijay Sales showed considerable shortfalls in combined on-time and 
+ in-full deliveries.
+ 
+
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+
+➜ Developed dashboards in Power BI to track and visualize daily delivery service levels using metrics 
+ such as OT %, IF %, OTIF %, LIFR, and VOFR.
+➜ Identified systemic issues in the delivery process, especially for key customers, and flagged these for 
+ immediate action to prevent further contract cancellations.
+➜ Provided actionable insights to the management team to improve delivery service levels, helping 
+ retain contracts and increase customer satisfaction.
 
 #### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjVhZTRmZDQtYWRmYy00NzJhLWJiNGYtMDk0MTQxNDEzOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
