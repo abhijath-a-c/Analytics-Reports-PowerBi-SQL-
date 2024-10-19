@@ -11,16 +11,16 @@ This is a complete dashboard of the complete business of AtliQ Hardware.
 
 ### 2.AtliQ Mart Supply Chain Analytics
 
-#### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘂𝗺𝗺𝗮𝗿𝘆:
+#### Project Summary
 
-𝗖𝗼𝗻𝘁𝗲𝘅𝘁:
+**Context**
 AtliQ Mart, a growing FMCG manufacturer headquartered in Gujarat, is currently operational in three cities Surat, Ahmedabad and Vadodara.
 They faced challenges when key customers did not renew their annual contracts due to poor delivery service levels. The issue was suspected to stem from late or incomplete deliveries, leading to dissatisfaction and service issues.
 
-𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲:
+**Objective**
 The goal was to help AtliQ Mart's management track and improve 𝐎𝐧-𝐭𝐢𝐦𝐞 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 (𝐎𝐓) %, 𝐈𝐧-𝐟𝐮𝐥𝐥 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲 (𝐈𝐅) %, 𝐚𝐧𝐝 𝐎𝐧-𝐓𝐢𝐦𝐞 𝐢𝐧 𝐅𝐮𝐥𝐥 (𝐎𝐓𝐈𝐅) % on a daily basis to ensure better service and swift responses to delivery problems, helping retain key customers.
 
-𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+**Key Insights**
 
 𝗢𝘃𝗲𝗿𝗮𝗹𝗹 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 
